@@ -1,0 +1,2 @@
+Kruskal-Wallis H-statistic: 3.0450
+p-value: 0.550325

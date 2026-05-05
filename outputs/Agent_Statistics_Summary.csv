@@ -1,0 +1,6 @@
+Agent,Total PRs,PRs with Issues,PRs without Issues,% PRs with Issues,Total Issues,Mean,Median,Std Dev,Min,Max,Q1,Q3,IQR,Outliers
+Claude_Code,15,8,7,53.33,69,4.6,1.0,9.56,0,35,0.0,2.5,2.5,3
+Copilot,106,22,84,20.75,235,2.22,0.0,10.14,0,94,0.0,0.0,0.0,22
+Cursor,40,9,31,22.5,331,8.28,0.0,38.19,0,233,0.0,0.0,0.0,9
+Devin,100,26,74,26.0,99,0.99,0.0,2.77,0,22,0.0,1.0,1.0,12
+OpenAI_Codex,949,125,824,13.17,456,0.48,0.0,2.58,0,30,0.0,0.0,0.0,125
